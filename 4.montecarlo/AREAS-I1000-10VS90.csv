@@ -1,0 +1,69 @@
+,Avergare Distint Names,Current Distint Names,# MonteCarlo's Distint Names > Current Distint Names,# MonteCarlo's Distint Names < Current Distint Names,# MonteCarlo's Distint Names = Current Distint Names,P(MonteCarlo's Distint Names > Current Distint Names),P(MonteCarlo's Distint Names < Current Distint Names),P(MonteCarlo's Distint Names = Current Distint Names),Iterations
+Secretaría General de Gobierno- TOP 10%,44.719,47,39,828,133,0.039,0.828,0.133,1000
+Secretaría General de Gobierno- BOTTOM 90%,52.407,50,822,89,89,0.822,0.089,0.089,1000
+Municipios de Ñuble- TOP 10%,115.825,189,0,1000,0,0.0,1.0,0.0,1000
+Municipios de Ñuble- BOTTOM 90%,188.0,1262,0,1000,0,0.0,1.0,0.0,1000
+La Mujer y Equidad de Género- TOP 10%,73.704,80,16,967,17,0.016,0.967,0.017,1000
+La Mujer y Equidad de Género- BOTTOM 90%,86.642,89,196,702,102,0.196,0.702,0.102,1000
+Energía- TOP 10%,71.517,76,22,939,39,0.022,0.939,0.039,1000
+Energía- BOTTOM 90%,64.179,65,290,546,164,0.29,0.546,0.164,1000
+Municipios del Libertador General Bernardo OHiggins- TOP 10%,174.414,222,0,1000,0,0.0,1.0,0.0,1000
+Municipios del Libertador General Bernardo OHiggins- BOTTOM 90%,863.67,1328,0,1000,0,0.0,1.0,0.0,1000
+Municipios de Aysen del General Carlos Ibáñez del Campo- TOP 10%,131.487,140,43,935,22,0.043,0.935,0.022,1000
+Municipios de Aysen del General Carlos Ibáñez del Campo- BOTTOM 90%,339.326,349,162,806,32,0.162,0.806,0.032,1000
+Trabajo y Previsión Social- TOP 10%,222.222,260,0,1000,0,0.0,1.0,0.0,1000
+Trabajo y Previsión Social- BOTTOM 90%,361.814,384,15,980,5,0.015,0.98,0.005,1000
+Salud- TOP 10%,1475.36,1787,0,1000,0,0.0,1.0,0.0,1000
+Salud- BOTTOM 90%,3658.665,4459,0,1000,0,0.0,1.0,0.0,1000
+Municipios de Atacama- TOP 10%,52.239,57,18,957,25,0.018,0.957,0.025,1000
+Municipios de Atacama- BOTTOM 90%,422.082,502,0,1000,0,0.0,1.0,0.0,1000
+Educación- TOP 10%,375.516,436,0,1000,0,0.0,1.0,0.0,1000
+Educación- BOTTOM 90%,1703.882,1724,221,768,11,0.221,0.768,0.011,1000
+Justicia- TOP 10%,172.14,216,0,1000,0,0.0,1.0,0.0,1000
+Justicia- BOTTOM 90%,200.265,213,29,961,10,0.029,0.961,0.01,1000
+Desarrollo Social- TOP 10%,141.059,164,0,1000,0,0.0,1.0,0.0,1000
+Desarrollo Social- BOTTOM 90%,77.401,83,31,948,21,0.031,0.948,0.021,1000
+Defensa Nacional- TOP 10%,281.552,326,0,1000,0,0.0,1.0,0.0,1000
+Defensa Nacional- BOTTOM 90%,568.268,579,195,787,18,0.195,0.787,0.018,1000
+Municipios de La Araucanía- TOP 10%,200.741,201,460,482,58,0.46,0.482,0.058,1000
+Municipios de La Araucanía- BOTTOM 90%,1378.016,1604,0,1000,0,0.0,1.0,0.0,1000
+Vivienda y Urbanismo- TOP 10%,157.753,177,0,999,1,0.0,0.999,0.001,1000
+Vivienda y Urbanismo- BOTTOM 90%,234.649,252,6,991,3,0.006,0.991,0.003,1000
+Municipios de Los Ríos- TOP 10%,112.893,114,358,555,87,0.358,0.555,0.087,1000
+Municipios de Los Ríos- BOTTOM 90%,736.93,908,0,1000,0,0.0,1.0,0.0,1000
+Municipios de Antofagasta- TOP 10%,38.604,39,342,455,203,0.342,0.455,0.203,1000
+Municipios de Antofagasta- BOTTOM 90%,246.75,251,275,688,37,0.275,0.688,0.037,1000
+Deporte- TOP 10%,59.149,65,3,989,8,0.003,0.989,0.008,1000
+Deporte- BOTTOM 90%,93.671,102,9,985,6,0.009,0.985,0.006,1000
+Municipios de Valparaíso- TOP 10%,289.745,348,0,1000,0,0.0,1.0,0.0,1000
+Municipios de Valparaíso- BOTTOM 90%,1394.185,1708,0,1000,0,0.0,1.0,0.0,1000
+Hacienda- TOP 10%,278.413,337,0,1000,0,0.0,1.0,0.0,1000
+Hacienda- BOTTOM 90%,498.775,605,0,1000,0,0.0,1.0,0.0,1000
+Municipios de Tarapacá- TOP 10%,25.023,25,379,263,358,0.379,0.263,0.358,1000
+Municipios de Tarapacá- BOTTOM 90%,179.006,185,147,813,40,0.147,0.813,0.04,1000
+Municipios de R. Metropolitana de Santiago- TOP 10%,682.213,856,0,1000,0,0.0,1.0,0.0,1000
+Municipios de R. Metropolitana de Santiago- BOTTOM 90%,2949.363,3079,0,1000,0,0.0,1.0,0.0,1000
+Municipios de Coquimbo- TOP 10%,126.687,142,7,993,0,0.007,0.993,0.0,1000
+Municipios de Coquimbo- BOTTOM 90%,814.091,995,0,1000,0,0.0,1.0,0.0,1000
+Economía Fomento y Turismo- TOP 10%,239.738,258,6,991,3,0.006,0.991,0.003,1000
+Economía Fomento y Turismo- BOTTOM 90%,227.54,185,1000,0,0,1.0,0.0,0.0,1000
+Corporaciones Municipales- TOP 10%,533.666,649,0,1000,0,0.0,1.0,0.0,1000
+Corporaciones Municipales- BOTTOM 90%,2688.597,3127,0,1000,0,0.0,1.0,0.0,1000
+Municipios del Maule- TOP 10%,208.29,249,0,1000,0,0.0,1.0,0.0,1000
+Municipios del Maule- BOTTOM 90%,1008.324,1475,0,1000,0,0.0,1.0,0.0,1000
+Municipios de Magallanes y de la Antártica Chilena- TOP 10%,85.097,91,56,898,46,0.056,0.898,0.046,1000
+Municipios de Magallanes y de la Antártica Chilena- BOTTOM 90%,235.099,239,293,660,47,0.293,0.66,0.047,1000
+Consejo Defensa del Estado- TOP 10%,97.316,103,24,939,37,0.024,0.939,0.037,1000
+Consejo Defensa del Estado- BOTTOM 90%,27.733,29,0,740,260,0.0,0.74,0.26,1000
+Interior y Seguridad Pública- TOP 10%,163.663,207,0,1000,0,0.0,1.0,0.0,1000
+Interior y Seguridad Pública- BOTTOM 90%,219.158,288,0,1000,0,0.0,1.0,0.0,1000
+Culturas y las Artes- TOP 10%,70.638,45,1000,0,0,1.0,0.0,0.0,1000
+Culturas y las Artes- BOTTOM 90%,113.274,59,1000,0,0,1.0,0.0,0.0,1000
+Obras Públicas- TOP 10%,105.93,112,49,910,41,0.049,0.91,0.041,1000
+Obras Públicas- BOTTOM 90%,322.225,336,60,927,13,0.06,0.927,0.013,1000
+Agricultura- TOP 10%,170.082,189,1,999,0,0.001,0.999,0.0,1000
+Agricultura- BOTTOM 90%,183.923,194,44,933,23,0.044,0.933,0.023,1000
+Municipios del Bíobio- TOP 10%,288.239,353,0,1000,0,0.0,1.0,0.0,1000
+Municipios del Bíobio- BOTTOM 90%,1304.021,1677,0,1000,0,0.0,1.0,0.0,1000
+Municipios de Los Lagos- TOP 10%,280.131,341,0,1000,0,0.0,1.0,0.0,1000
+Municipios de Los Lagos- BOTTOM 90%,1354.919,1452,0,1000,0,0.0,1.0,0.0,1000
